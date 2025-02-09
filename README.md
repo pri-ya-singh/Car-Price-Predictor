@@ -1,4 +1,4 @@
-# Used Car Price Predictor
+# Car Price Predictor
 
 ## Project Aim
 
